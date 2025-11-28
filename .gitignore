@@ -3,3 +3,6 @@
 !*.css
 !*.js
 !.gitignore
+!README*
+!*.md
+!*.txt
